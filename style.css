@@ -1,0 +1,31 @@
+.parent >h2
+{
+ margin-left: auto;
+ margin-right: auto;
+ width: 400px; 
+ padding-top: 250px;
+ color:bisque;
+ font-size: xxx-large;
+}
+.parent>p
+{
+     margin-left: auto;
+     margin-right: auto;
+     width: 300px;
+     color:bisque;
+     font-size: x-large;
+     
+     
+    
+}
+.parent
+{
+   
+     background-repeat: no-repeat;
+  background-size: cover;
+ min-height: 100vh;
+  background-repeat: no-repeat;
+   
+     background-image: url("./cofee.jpg");
+    
+}
